@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+# This line gives the action the permission it needs to push the image
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
