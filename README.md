@@ -2,7 +2,7 @@
 <h3 align="center">3rd @ IIT Kharagpur</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&width=800&lines=I+code+because+I+want+to;Backend+Engineering+%26+FastAPI;Computer+Graphics+%26+OpenGL;AI%2FML+%26+Deep+Learning;Competitive+Programmer;C%2B%2B+%7C+Python+%7C+CUDA" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&width=800&lines=I+code+because+I+want+to" />
 </p>
 
 ---
