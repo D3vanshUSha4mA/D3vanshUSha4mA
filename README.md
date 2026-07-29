@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devanshu Sharma</h1>
+<h1 align="center">Hi, I'm Devanshu Sharma</h1>
 <h3 align="center">3rd @ IIT Kharagpur</h3>
 
 <p align="center">
@@ -7,24 +7,24 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 3rd-year undergraduate at **IIT Kharagpur**
-- 💡 Passionate about **Backend Engineering, Computer Graphics, AI/ML, and Competitive Programming**
-- ⚔️ Active competitive programmer with a focus on C++ and algorithmic efficiency
-- 🌱 Currently expanding my knowledge in DSA, AI Engineering, Backend Engineering, Databases
-
----
-
-## ⚡ Currently Working On
-
-- 🔬 Developing a real-time ML pipeline to simulate pseudo-haptic weight perception in VR environments
-- 🚀 Scaling backend architectures and optimizing 3D physics engines
-- 💻 Solving complex problems on Codeforces and LeetCode
+- 3rd-year undergraduate at **IIT Kharagpur**
+- Passionate about **Backend Engineering, Computer Graphics, AI/ML, and Competitive Programming**
+- Active competitive programmer with a focus on C++ and algorithmic efficiency
+- Currently expanding my knowledge in DSA, AI Engineering, Backend Engineering, Databases
 
 ---
 
-## 🛠️ Tech Stack
+## Currently Working On
+
+- Developing a real-time ML pipeline to simulate pseudo-haptic weight perception in VR environments
+- Scaling backend architectures and optimizing 3D physics engines
+- Solving complex problems on Codeforces and LeetCode
+
+---
+
+## Tech Stack
 
 ### Languages
 <p>
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=D3vanshUSha4mA&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D3vanshUSha4mA&theme=tokyo-night&hide_border=true" />
@@ -67,7 +67,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/D3vanshUSha4mA/D3vanshUSha4mA/output/github-contribution-grid-snake-dark.svg" />
@@ -75,7 +75,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/D3vanshUSha4mA">GitHub</a> •
@@ -87,7 +87,7 @@
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=D3vanshUSha4mA&label=Profile%20Views&color=0e75b6&style=flat" />
